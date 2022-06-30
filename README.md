@@ -1,4 +1,4 @@
-# node-crash-course
+# Node.js Crash Course
 
 This is the project to practice Node.js using youtube: 
 https://www.youtube.com/watch?v=fBNz5xF-Kx4
